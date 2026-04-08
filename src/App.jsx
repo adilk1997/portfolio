@@ -136,7 +136,7 @@ function App() {
                 Django, Python, SQL
               </p>
               <div className="project-links">
-                <a href="https://recipejournal-a7f08a286396.herokuapp.com/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+                <a href="https://recipe-journal.onrender.com/" target="_blank" rel="noopener noreferrer">Live Demo</a>
                 <a href="https://github.com/adilk1997/recipe-journal" target="_blank" rel="noopener noreferrer">GitHub</a>
               </div>
             </div>
