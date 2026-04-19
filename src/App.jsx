@@ -157,6 +157,24 @@ function App() {
               </div>
             </div>
 
+            <div className="project-card">
+              <h3>RunBook – Running Tracker</h3>
+              <p>
+                A full-stack running tracker app where users can log, edit, and track their runs with automatic pace and speed calculations.
+              </p>
+              <p className="tech">
+                Node.js, Express, MongoDB, EJS
+              </p>
+              <div className="project-links">
+                <a href="https://running-tracker-mm3a.onrender.com" target="_blank" rel="noopener noreferrer">
+                  Live Demo
+                </a>
+                <a href="https://github.com/adilk1997/running-tracker" target="_blank" rel="noopener noreferrer">
+                  GitHub
+                </a>
+              </div>
+            </div>
+
           </div>
         </section>
 
