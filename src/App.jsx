@@ -2,6 +2,7 @@ import './App.css'
 import worldquestImg from './assets/worldquest.png'
 import recipeImg from './assets/recipe.png'
 import battleshipImg from './assets/battleship.png'
+import runbookImg from './assets/runbook.png'
 
 function App() {
   return (
@@ -158,6 +159,7 @@ function App() {
             </div>
 
             <div className="project-card">
+              <img src={runbookImg} alt="RunBook project" />
               <h3>RunBook – Running Tracker</h3>
               <p>
                 A full-stack running tracker app where users can log, edit, and track their runs with automatic pace and speed calculations.
